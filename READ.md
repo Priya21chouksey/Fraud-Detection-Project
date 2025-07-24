@@ -25,10 +25,3 @@ It analyzes transaction data from a CSV file and flags potentially fraudulent ac
 - **OOP** – Encapsulation, Classes & Methods
 
 ---
-
-## How to Run
-
-### 1. Clone the Repository:
-```bash
-git clone https://github.com/Priya21chouksey/Fraud-Detection-Java.git
-cd Fraud-Detection-Java
