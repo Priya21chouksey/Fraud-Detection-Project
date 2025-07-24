@@ -1,0 +1,31 @@
+TransactionID,SupplierName,Amount,Location,Time,Product,DeliveryDays
+1001,ABC Ltd,2000,India,09:00,Laptop,3
+1002,XYZ Ltd,15000,Nigeria,02:00,Hard Drive,15
+1003,PQR Ltd,8000,India,23:30,Monitor,2
+1004,Fake Ltd,50000,Unknown,01:00,SSD,18
+1005,RealTech,1200,USA,11:30,Mouse,4
+1006,Secure Inc,10000,India,14:00,Keyboard,7
+1007,XYZ Ltd,60000,Nigeria,00:30,SSD,20
+1008,PQR Ltd,500,USA,13:45,Pen Drive,3
+1009,Unknown Ltd,25000,Unknown,01:45,Server,12
+1010,Visionary Tech,2200,India,10:15,Laptop,5
+1011,ByteSupply,9500,Brazil,03:00,Monitor,11
+1012,SafeChain Ltd,3000,India,12:45,Mouse,6
+1013,Untrusted Corp,28000,Unknown,04:00,SSD,14
+1014,SmartSys,1000,USA,15:30,Keyboard,2
+1015,AlphaTech,14000,Nigeria,02:45,Server,16
+1016,NanoWorks,1800,India,08:00,Laptop,4
+1017,BrightFlow,20000,Unknown,01:15,Server,13
+1018,UltraChain,7500,UK,10:00,Tablet,5
+1019,FutureTech,9800,USA,16:30,Monitor,6
+1020,Delta Ltd,10500,India,03:45,SSD,12
+1021,CoreSync,16000,Nigeria,02:30,Hard Drive,17
+1022,SoftEdge,1300,USA,10:10,Mouse,3
+1023,NeoWare,31000,Unknown,00:15,Server,20
+1024,DataPro,4500,India,09:20,Keyboard,5
+1025,Synapse Global,9000,Brazil,13:00,Monitor,7
+1026,Qbit Systems,19000,Nigeria,01:30,SSD,15
+1027,Zenith Corp,2000,India,11:00,Mouse,3
+1028,LogicLoop,1500,USA,12:00,Keyboard,6
+1029,Trustline Ltd,17000,Unknown,02:00,Server,18
+1030,ByteSpark,800,India,14:30,Pen Drive,2

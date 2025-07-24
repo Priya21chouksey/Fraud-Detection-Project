@@ -1,0 +1,13 @@
+TransactionID,SupplierName,Amount,Location,Time,Product,DeliveryDays
+1002,XYZ Ltd,15000,15000.0,02:00,Hard Drive
+1004,Fake Ltd,50000,50000.0,01:00,SSD
+1007,XYZ Ltd,60000,60000.0,00:30,SSD
+1009,Unknown Ltd,25000,25000.0,01:45,Server
+1013,Untrusted Corp,28000,28000.0,04:00,SSD
+1015,AlphaTech,14000,14000.0,02:45,Server
+1017,BrightFlow,20000,20000.0,01:15,Server
+1020,Delta Ltd,10500,10500.0,03:45,SSD
+1021,CoreSync,16000,16000.0,02:30,Hard Drive
+1023,NeoWare,31000,31000.0,00:15,Server
+1026,Qbit Systems,19000,19000.0,01:30,SSD
+1029,Trustline Ltd,17000,17000.0,02:00,Server
